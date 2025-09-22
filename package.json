@@ -1,0 +1,33 @@
+{
+  "name": "@bu0nq/utility.classnames",
+  "version": "0.1.0",
+  "description": "Package for integrating Utility.ClassNames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/utility.classnames.git"
+  },
+  "keywords": [
+    "classname",
+    "component",
+    "css",
+    "scss",
+    "less",
+    "utility"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/utility.classnames/issues"
+  },
+  "homepage": "https://github.com/bu0nq/utility.classnames#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
