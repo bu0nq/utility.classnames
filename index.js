@@ -1,17 +1,8 @@
 /**
  * @param input
  * @returns {string}
- * @depricated 0.1.2
  */
-function classNames(...input) {
-    return classnames(input);
-}
-
-/**
- * @param input
- * @returns {string}
- */
-function classnames(...input) {
+export default function classnames(...input) {
     let value,
         output = '';
 
@@ -65,5 +56,3 @@ function toValue(input) {
 
     return output;
 }
-
-export default {classNames, classnames}
